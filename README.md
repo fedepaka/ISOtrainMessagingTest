@@ -2,7 +2,8 @@ Proyecto realizado en VS 2026
 .net 9
 
 1-Antes de ejecutar la applicación se deben agragar configuraciones necesarias en appsettings.json
-....
+
+```json
 "NotificationSettings": {
   "Smtp": {
     "Server": "smtp.gmail.com",
@@ -13,7 +14,7 @@ Proyecto realizado en VS 2026
     "Password": "tu_pass", //password de pruebas generado por gmail
     "EnableSsl": true
   }
-
+```
   Los anteriores:
   - username y password: para esta prueba se utilizaron los que proporciona gmail con una cuenta válida y generando password de prueba.
 
