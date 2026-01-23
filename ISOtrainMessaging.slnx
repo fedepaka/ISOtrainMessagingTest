@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ISOtrainMessaging.ApiWeb/ISOtrainMessaging.ApiWeb.csproj" Id="e038b9d4-9b93-4efb-af6b-b7035e88a83b" />
+  <Project Path="ISOtrainMessaging.BussinesLayer/ISOtrainMessaging.BussinesLayer.csproj" Id="5c648815-bd0b-48ad-bb2c-b8497007759e" />
+  <Project Path="ISOtrainMessaging.Model/ISOtrainMessaging.Model.csproj" Id="a8a23daf-2bc3-4600-b652-d5d9a34e60aa" />
+  <Project Path="ISOtrainMessaging.TemplateService/ISOtrainMessaging.TemplateService.csproj" Id="f8d6b88e-569e-4cda-8e02-727102f78e49" />
+</Solution>
