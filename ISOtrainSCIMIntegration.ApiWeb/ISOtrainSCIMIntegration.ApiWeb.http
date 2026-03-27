@@ -1,0 +1,6 @@
+@ISOtrainSCIMIntegration.ApiWeb_HostAddress = http://localhost:5263
+
+GET {{ISOtrainSCIMIntegration.ApiWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
